@@ -21,6 +21,10 @@ body{
 .head{
   border-radius: 20px;
 }
+.card{
+  width: 20rem;
+  max-height: max-content;
+}
 
 
 .App-link {
