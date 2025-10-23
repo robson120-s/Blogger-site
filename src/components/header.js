@@ -3,11 +3,7 @@ import { AiFillPlusCircle } from 'react-icons/ai';
 import {useNavigate} from 'react-router-dom';
 
 const Header = () => {
-  // const navigate = useNavigate();
 
-  // const handleCreateblog =()=>{
-  //   navigate('/create');
-  // }
   return (
     <div className="App-header head">
       <h1 className="text-white ">Blog Application</h1>
