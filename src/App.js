@@ -13,7 +13,6 @@ function App() {
         <Routes>
           {/* Main page route */}
           <Route path="/" element={<Main />} />
-          {/* Create page route */}
           <Route path="/create" element={<Create />} />
           <Route path="/fullpost" element={<FullPost />} />
         </Routes>
